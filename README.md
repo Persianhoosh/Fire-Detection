@@ -47,5 +47,14 @@ Press q to exit the program.
     YOLOv5 trained model
 
 📷 Example Output
-
+![sample](https://github.com/Persianhoosh/i-.icons/raw/main/fire-sample1.mp4)
 Example of YOLOv5 detecting fire in a live webcam feed.
+
+---
+
+Fallow me :
+   ==============================
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/youtube.png" width="50">](https://youtube.com/persianhoosh)
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/github.png" width="50">](https://github.com/persianhoosh)
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/telegram.png" width="50">](https://t.me/Aihoma)
+   [<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/instagram.png" width="50">](https://)
