@@ -14,14 +14,11 @@ This program captures video from the webcam, processes it with a trained YOLOv5 
 ---
 
 ## 📂 Project Structure
-project-folder/
-│
-├── yolov5_fire_detection.py # Main project code
-├── yolov5s_best.pt # Trained YOLOv5 model
-└── README.md # Project documentation
-
-yaml
-Copy code
+    project-folder/
+        │
+        ├── yolov5_fire_detection.py # Main project code
+        ├── yolov5s_best.pt # Trained YOLOv5 model
+        └── README.md # Project documentation
 
 ## ⚙️ Requirements
 Before running, ensure your Python environment is ready.
@@ -52,21 +49,3 @@ Press q to exit the program.
 📷 Example Output
 
 Example of YOLOv5 detecting fire in a live webcam feed.
-
-📜 License
-This project is licensed under the MIT License.
-
-💡 Author
-Soroush H.
-
-GitHub: github.com/soroushh
-
-📚 References
-YOLOv5 Documentation
-
-OpenCV Documentation
-
-yaml
-Copy code
-
----
