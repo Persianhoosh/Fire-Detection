@@ -1,7 +1,11 @@
 # 🔥 Fire Detection with YOLOv5
-
 A simple real-time **fire detection** system using a custom-trained **YOLOv5** model and your system’s webcam.  
 This program captures video from the webcam, processes it with a trained YOLOv5 model, and highlights detected fire regions in real-time.
+
+---
+📷 Example Output
+![sample](https://github.com/Persianhoosh/i-.icons/raw/main/fire-sample1.mp4)
+Example of YOLOv5 detecting fire in a live webcam feed.
 
 ---
 
@@ -10,7 +14,6 @@ This program captures video from the webcam, processes it with a trained YOLOv5 
     - Real-time webcam image processing
     - Annotated frames with detection results
     - Fast, live inference
-
 ---
 
 ## 📂 Project Structure
@@ -45,11 +48,6 @@ Press q to exit the program.
     OpenCV
     PyTorch
     YOLOv5 trained model
-
-📷 Example Output
-![sample](https://github.com/Persianhoosh/i-.icons/raw/main/fire-sample1.mp4)
-Example of YOLOv5 detecting fire in a live webcam feed.
-
 ---
 
 Fallow me :
