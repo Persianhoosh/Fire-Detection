@@ -2,9 +2,9 @@
 A simple real-time **fire detection** system using a custom-trained **YOLOv5** model and your system’s webcam.  
 This program captures video from the webcam, processes it with a trained YOLOv5 model, and highlights detected fire regions in real-time.
 
-📷 Example Output
+## 📷 Example Output
+        Example of YOLOv5 detecting fire in a live webcam feed.
 ![sample](https://github.com/Persianhoosh/i-.icons/raw/main/fire-sample1.gif)
-Example of YOLOv5 detecting fire in a live webcam feed.
 
 
 ## 📌 Features
